@@ -1,0 +1,12 @@
+Hay que modificar el for de los usuarios
+si
+Agregar mensajeria del servidor al cliente
+si
+Solucionar el envio de datos
+si
+Cierre del servidor
+si
+Al cerrar sesion que se cierre el cliente
+si
+Se graba un solo registro
+si

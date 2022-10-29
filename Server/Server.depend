@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636511632 source:c:\users\wilro_000\desktop\programas roger\practicas en c++\cliente-servidor\server\main.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<cstring>
+	<ctype.h>
+	<cstdlib>
+	<time.h>
+	<sstream>
+

@@ -1,0 +1,5 @@
+2021-10-31_22:36: ===========Inicia Sesion===========
+2021-10-31_22:38: 7 - Modificacion del Medicamento
+2021-10-31_22:38: 8 - Creacion de Tipo de Medicamento
+2021-10-31_22:39: 9 - Creacion de Medicamento
+2021-10-31_22:39: ===========Cierra Sesion===========

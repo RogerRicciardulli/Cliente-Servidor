@@ -1,0 +1,57 @@
+Tipo de Medicamento: 				
+id: 1						
+tipo: Crema
+activo: 1
+id: 2						
+tipo: Capsula
+activo: 1
+id: 3						
+tipo: Aerosol
+activo: 1
+id: 4						
+tipo: Jarabe
+activo: 1
+id: 5						
+tipo: Toalla
+activo: 1
+				
+Medicamento:
+id: 1
+codigo: AAA-12345-6
+nombre: Amoxol
+droga: Amoxicilina
+activo: 1
+id.id: 2						
+tipo: Capsula
+
+id: 2
+codigo: BBB-11111-5
+nombre: Augmentin
+droga: Amoxicilina
+activo: 1
+id.id: 2						
+tipo: Capsula
+
+id: 3
+codigo: CCC-22222-1
+nombre: Abelcet
+droga: Amphetamine
+activo: 1
+id.id: 3					
+tipo: Aerosol
+
+id: 4
+codigo: DDD-33333-6
+nombre: Ambisome
+droga: Anfotericina
+activo: 1
+id.id: 1					
+tipo: Crema
+
+id: 5
+codigo: EEE-44444-2
+nombre: Atomo
+droga: Proactina
+activo: 1
+id.id: 4					
+tipo: Jarabe

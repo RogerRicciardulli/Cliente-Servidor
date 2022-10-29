@@ -1,0 +1,14 @@
+2021-10-31_21:58: ===========Inicia Sesion===========
+2021-10-31_22:0: 1 - Creacion de Tipo de Medicamento
+2021-10-31_22:0: 2 - Creacion de Tipo de Medicamento
+2021-10-31_22:0: 3 - Creacion de Tipo de Medicamento
+2021-10-31_22:0: 4 - Creacion de Tipo de Medicamento
+2021-10-31_22:0: 5 - Creacion de Tipo de Medicamento
+2021-10-31_22:1: 6 - Creacion de Tipo de Medicamento
+2021-10-31_22:1: 7 - Creacion de Tipo de Medicamento
+2021-10-31_22:2: 1 - Modificacion del Tipo de Medicamento
+2021-10-31_22:3: 1 - Modificacion del Tipo de Medicamento
+2021-10-31_22:4: 3 - Modificacion del Tipo de Medicamento
+2021-10-31_22:5: ===========Cierra Sesion===========
+2021-10-31_22:41: ===========Inicia Sesion===========
+2021-10-31_22:42: ===========Cierra Sesion===========

@@ -1,0 +1,7 @@
+2021-11-9_23:44: ===========Inicia Sesion===========.
+2021-11-9_23:45:  - Modificacion de Medicamento 1.
+2021-11-9_23:46:  - Creacion Tipo de medicamento 10.
+2021-11-9_23:48: ===========Inicia Sesion===========.
+2021-11-9_23:49:  - Creacion Tipo de medicamento 10.
+2021-11-9_23:51:  - Creacion Medicamento 10.
+2021-11-9_23:51:  - Modificacion de Medicamento 10.
